@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <>
       <header className="topbar">
-        <h1 className="topbar-title">Isabel Montserratt</h1>
+        <h1 className="topbar-title">Privacy</h1>
       </header>
 
       <main className="profile">
