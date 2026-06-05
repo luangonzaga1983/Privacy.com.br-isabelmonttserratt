@@ -1,0 +1,15 @@
+FOTOS DO SITE
+=============
+
+Coloque os arquivos nesta pasta com EXATAMENTE estes nomes:
+
+  avatar.jpg   -> foto de perfil (círculo). Quadrada fica melhor.
+  banner.jpg   -> capa de cima (retangular, larga).
+  previa.jpg   -> prévia que abre ao clicar no conteúdo bloqueado.
+
+Regras:
+- Nome igual (minúsculo) e extensão .jpg
+- Se usar .png, troque também no arquivo app/globals.css (url(/avatar.png) etc.)
+- Depois de colocar/trocar, atualize a página (Ctrl+F5).
+
+Ninguém consegue editar essas fotos pelo site. Só você, trocando o arquivo aqui.
